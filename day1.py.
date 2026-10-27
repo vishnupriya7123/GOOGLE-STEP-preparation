@@ -1,0 +1,3 @@
+name = "Vishnupriya"
+cgpa = 8.5
+print(f"Hi {name}, You are Eligible for Google STEP Hyderabad!")
